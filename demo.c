@@ -3,7 +3,9 @@ int main()
 {
 	printf("Hello world");
 	printf("Hello world");
-	printf("输出ma");
+<<<<<<< HEAD
+=======
+>>>>>>> hot
 	return 0;
 }
 
